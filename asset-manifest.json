@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/solar_llc/static/css/main.dac19192.css",
+    "main.js": "/solar_llc/static/js/main.16abe25b.js",
+    "static/js/787.1d90adcc.chunk.js": "/solar_llc/static/js/787.1d90adcc.chunk.js",
+    "static/media/img2.webp": "/solar_llc/static/media/img2.aff671fc2cbe1ee5bbad.webp",
+    "static/media/img1.webp": "/solar_llc/static/media/img1.e8568d31db5234ed9ce4.webp",
+    "static/media/solar.jpeg": "/solar_llc/static/media/solar.f5713d2150386d1d4669.jpeg",
+    "static/media/light.woff": "/solar_llc/static/media/light.064077261f6a7f314fdd.woff",
+    "static/media/bold.woff2": "/solar_llc/static/media/bold.d56986b6b0700271250a.woff2",
+    "static/media/revicons.eot": "/solar_llc/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/solar_llc/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/solar_llc/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/icon2.svg": "/solar_llc/static/media/icon2.b479707708be29f42562cee26f5dc935.svg",
+    "static/media/icon1.svg": "/solar_llc/static/media/icon1.e2eb730e24ba966f40afc074458857de.svg",
+    "static/media/icon4.svg": "/solar_llc/static/media/icon4.7df5ba00e48d10cf0945017559b23197.svg",
+    "static/media/icon5.svg": "/solar_llc/static/media/icon5.0986b961fc92ef30e3861c19fb48449e.svg",
+    "index.html": "/solar_llc/index.html",
+    "static/media/icon3.svg": "/solar_llc/static/media/icon3.06402d6061e2d4451b617220521cb330.svg",
+    "static/media/arrow.svg": "/solar_llc/static/media/arrow.f88d8623379df51f1cd5bee84c0cb34b.svg",
+    "main.dac19192.css.map": "/solar_llc/static/css/main.dac19192.css.map",
+    "main.16abe25b.js.map": "/solar_llc/static/js/main.16abe25b.js.map",
+    "787.1d90adcc.chunk.js.map": "/solar_llc/static/js/787.1d90adcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac19192.css",
+    "static/js/main.16abe25b.js"
+  ]
+}
