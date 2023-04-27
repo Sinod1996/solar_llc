@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/solar_llc/static/css/main.47c25791.css",
-    "main.js": "/solar_llc/static/js/main.3c4c3def.js",
+    "main.css": "/solar_llc/static/css/main.f28476ef.css",
+    "main.js": "/solar_llc/static/js/main.25cef845.js",
     "static/js/787.1d90adcc.chunk.js": "/solar_llc/static/js/787.1d90adcc.chunk.js",
     "static/media/img2.webp": "/solar_llc/static/media/img2.aff671fc2cbe1ee5bbad.webp",
     "static/media/img1.webp": "/solar_llc/static/media/img1.e8568d31db5234ed9ce4.webp",
+    "static/media/usa_flag.png": "/solar_llc/static/media/usa_flag.9a4d7abc6f920d0105bb.png",
     "static/media/light.woff": "/solar_llc/static/media/light.064077261f6a7f314fdd.woff",
     "static/media/bold.woff2": "/solar_llc/static/media/bold.d56986b6b0700271250a.woff2",
     "static/media/revicons.eot": "/solar_llc/static/media/revicons.a77de540a38981833f9e.eot",
@@ -17,12 +18,12 @@
     "index.html": "/solar_llc/index.html",
     "static/media/icon3.svg": "/solar_llc/static/media/icon3.06402d6061e2d4451b617220521cb330.svg",
     "static/media/arrow.svg": "/solar_llc/static/media/arrow.f88d8623379df51f1cd5bee84c0cb34b.svg",
-    "main.47c25791.css.map": "/solar_llc/static/css/main.47c25791.css.map",
-    "main.3c4c3def.js.map": "/solar_llc/static/js/main.3c4c3def.js.map",
+    "main.f28476ef.css.map": "/solar_llc/static/css/main.f28476ef.css.map",
+    "main.25cef845.js.map": "/solar_llc/static/js/main.25cef845.js.map",
     "787.1d90adcc.chunk.js.map": "/solar_llc/static/js/787.1d90adcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47c25791.css",
-    "static/js/main.3c4c3def.js"
+    "static/css/main.f28476ef.css",
+    "static/js/main.25cef845.js"
   ]
 }
